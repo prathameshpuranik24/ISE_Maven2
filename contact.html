@@ -1,0 +1,5 @@
+<html>
+<body>
+<h2>Contact- WIT, Solapur</h2>
+</body>
+</html>
